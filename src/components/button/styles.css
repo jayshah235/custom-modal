@@ -1,0 +1,16 @@
+.btn {
+  width: max-content;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: 500;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: black;
+  color: white;
+  transform: scale(1.1);
+}
